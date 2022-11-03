@@ -1,1 +1,5 @@
-trees = ['dogtree', 'appletree', 'cedartree', 'shrimptree', 'butterflyshrimptree', 'zebra', 'banana', 'daffodil']
+
+
+
+trees = ['doggytree', 'applelicioustree', 'ceDATtree', 'shrimpytree', 'butterflyingshrimptree', 'zebrashonmykneerimptree', 'whiskeyshrimpdshrub']
+
