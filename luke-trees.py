@@ -1,2 +1,2 @@
 # luke-trees.py
-tree-fact = "Dendrochronology is the study of tree rings"
+tree_fact = "Dendrochronology is the study of tree rings"
